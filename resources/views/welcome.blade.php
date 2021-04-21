@@ -81,8 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Git is working
-
+                    Laravel
                 </div>
 
                 <div class="links">
